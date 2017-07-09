@@ -1,3 +1,3 @@
 # Firebase-Realtime-Chat-app
-Used Technologies: Java, Firebase, SQLite
+Used Technologies: Java, Firebase, SQLite</br>
 IDE: Android Studio
