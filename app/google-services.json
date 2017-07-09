@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "315638550705",
+    "firebase_url": "https://javabanglafirebase.firebaseio.com",
+    "project_id": "javabanglafirebase",
+    "storage_bucket": "javabanglafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315638550705:android:96d1c041acd42571",
+        "android_client_info": {
+          "package_name": "info.javaknowledge.fcmexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315638550705-kae4cp8vpjk3927chtpscuhimbq4nrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OhrRYJCVQf8Gk75VL4n1B71vqc_FIvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315638550705:android:f0bc40e5682d5f68",
+        "android_client_info": {
+          "package_name": "com.javabd.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315638550705-kae4cp8vpjk3927chtpscuhimbq4nrqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OhrRYJCVQf8Gk75VL4n1B71vqc_FIvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
